@@ -1,2 +1,2 @@
 # modelzoo_registry
-Modelzoo Registry
+Modelzoo Public Registry
